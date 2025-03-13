@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 Welcome to my GitHub profile!
 
 🛠️ Recent Projects
@@ -10,10 +9,6 @@ Welcome to my GitHub profile!
         - Designed with clean, modular, and maintainable code
 
 🚀 Check out the full implementation here!
-
-Also,
-- 🔭 I’m currently working on an exciting project for developers. Stay tuned!
-- 📫 Reach me at swaraj.chavan.98@gmail.com
-- ⚡ I love exploring and travelling!
+📫 Reach me at swaraj.chavan.98@gmail.com
 
 Feel free to explore my repositories and connect with me!
