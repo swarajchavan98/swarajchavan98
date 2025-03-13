@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on some very cool project.
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+Welcome to my GitHub profile!
+
+- 🔭 I’m currently working on an exciting project for developers. Stay tuned!
 - 📫 Reach me at swaraj.chavan.98@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love hiking and have climbed [specific mountain or trail].
+
+Feel free to explore my repositories and connect with me!
